@@ -4,9 +4,9 @@ This script scrapes the top posts off of r/Music from the past day, and creates 
 
 ## Dependencies
 Python 3.9.1
-Install some of nthe other dependencies with:
+Install some of the other dependencies with:
 ~~~
-pip install spotipy --upgrade
+pip install spotipy
 pip install praw
 pip install envyaml
 ~~~
